@@ -1,0 +1,5 @@
+set relativenumber true
+set icons true
+map be $nvim $(fzf)
+map bl $lf $(fzf)
+map bi $nvim -R $(fzf)
